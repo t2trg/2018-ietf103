@@ -21,7 +21,7 @@ Please contact [chairs][] for any slot proposals.
 |-------|-------------------|-----------------------------------------------------|------------------------------------------------------------------------------|
 | 16:10 | Chairs            | Intro, RG Status                                    | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot][restiot] |
 | 16:20 | Chairs, various   | Report from [WISHI][] and Hackathon                 |                                                                              |
-| 16:45 | Michael Koster    | brief iot.schema.org update, \[SSN keynote?]        |                                                                              |
+| 16:45 | Michael Koster    | brief iot.schema.org update                         |                                                                              |
 | 17:00 | Matthias Kovatsch | W3C WoT update                                      |                                                                              |
 | 17:15 | Chairs, various   | [core-apps][], [CoRAL][] — take on as RG documents? |                                                                              |
 | 17:45 | Chairs, various   | Intro to Friday's work meeting                      |                                                                              |
