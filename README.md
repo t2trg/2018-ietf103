@@ -7,6 +7,8 @@ November 6th, 2018, 16:10..18:10 (UTC+07:00)
 
 [IETF main agenda]: https://tools.ietf.org/agenda/103
 
+For other T2TRG activites at IETF 103 see also [WISHI Hackathon](https://github.com/t2trg/wishi/wiki/Hackathon-Planning) and [Friday work meeting](https://github.com/t2trg/2018-11-bangkok).
+
 ## Materials
 
 Slides: <https://github.com/t2trg/2018-ietf103/tree/master/slides>
