@@ -11,7 +11,7 @@ For other T2TRG activites at IETF 103 see also [WISHI Hackathon](https://github.
 
 ## Materials
 
-Slides: <https://github.com/t2trg/2018-ietf103/tree/master/slides>
+Slides: https://datatracker.ietf.org/meeting/103/materials/slides-103-t2trg-ietf-103-consolidated-slides-00
 
 Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-103-t2trg>
 
